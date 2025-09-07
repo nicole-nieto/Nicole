@@ -20,8 +20,7 @@
 ---
 
 ## 📂 Proyectos Destacados
-- 📌 [Talleres de Universidad](https://github.com/nicole-nieto) → Repositorios con prácticas y ejercicios.  
-- 💡 [App de crecimiento personal](https://github.com/nicole-nieto) → Proyecto en desarrollo para gestión de hábitos y metas.  
+- 📌 [Talleres de Universidad](https://github.com/nicole-nieto) → Repositorios con prácticas y ejercicios. 
 
 ---
 
@@ -35,7 +34,40 @@
 ---
 
 ## 📫 Conéctate conmigo
-- ✉️ **Email:** tu_correo@example.com  
+- ✉️ **Email:** nicolnieto48@gmail.com  
+name: Generate pacman animation
+
+on:
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
+
+  workflow_dispatch:
+
+  push:
+    branches:
+    - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: generate pacman-contribution-graph.svg
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+
+
+      - name: push pacman-contribution-graph.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 - 💼 [LinkedIn](https://www.linkedin.com/) *(opcional, si tienes)*  
 - 🐙 [GitHub](https://github.com/nicole-nieto)  
 
