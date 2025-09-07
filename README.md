@@ -1,9 +1,44 @@
 # Nicole
-<h1 align="center">Hola 👋, soy Nicole</h1>
-<h3 align="left">Conéctate conmigo:</h3>
+# 👋 ¡Hola! Soy Nicole Dayana Nieto Rivera  
+
+🎓 Estudiante de **Ingeniería de Sistemas y Computación**  
+💻 Apasionada por el **desarrollo de software**, la **optimización de procesos** y el **aprendizaje continuo**  
+📍 Bogotá, Colombia  
+
+---
+
+## 🚀 Tecnologías y Herramientas
 <p align="left">
-<a href="https://instagram.com/dayana_riv_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dayana_riv_" height="30" width="40" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
 </p>
 
-<h3 align="left">Idiomas y herramientas:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" ancho="40" alto="40"/> </a> <a href="https://www.mysql.com/" destino="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" ancho="40" alto="40"/> </a> <a href="https://www.oracle.com/" destino="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" ancho="40" altura="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" ancho="40" altura="40"/> </a> </p>
+---
+
+## 📂 Proyectos Destacados
+- 📌 [Talleres de Universidad](https://github.com/nicole-nieto) → Repositorios con prácticas y ejercicios.  
+- 💡 [App de crecimiento personal](https://github.com/nicole-nieto) → Proyecto en desarrollo para gestión de hábitos y metas.  
+
+---
+
+## 📊 Estadísticas de GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nicole-nieto&show_icons=true&theme=tokyonight" alt="Stats de Nicole"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicole-nieto&layout=compact&theme=tokyonight" alt="Lenguajes más usados"/>
+</p>
+
+---
+
+## 📫 Conéctate conmigo
+- ✉️ **Email:** tu_correo@example.com  
+- 💼 [LinkedIn](https://www.linkedin.com/) *(opcional, si tienes)*  
+- 🐙 [GitHub](https://github.com/nicole-nieto)  
+
+---
+
+✨ *Siempre en busca de aprender, mejorar y crear soluciones con impacto.*  
